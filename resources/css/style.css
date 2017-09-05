@@ -29,3 +29,7 @@ h2 {
   font-family: Verdana;
   font-size: 21px;
 }
+
+.right {
+  text-align: right;
+}
