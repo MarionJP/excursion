@@ -1,6 +1,7 @@
 body {
     background-color: black;
 }
+
 h1 {
   font-family: Verdana;
   font-weight: normal;
@@ -10,6 +11,7 @@ h1 {
 }
 
 p {
+  font-family: Verdana;
   color: Aquamarine;
   font-size: 16px;
   text-align: center;
